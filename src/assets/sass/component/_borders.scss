@@ -1,0 +1,75 @@
+.border-1{border-width: 1px;
+    border-style: solid;}
+
+.border-2{border-width: 2px;
+    border-style: solid;}
+
+
+
+.border-bottom-1{
+    border-width: 0px;
+            border-bottom: 1px;
+                border-style: solid;
+               }    
+
+
+.border-top-1{
+    border-width: 0px;
+            border-top: 1px;
+                border-style: solid;
+               }   
+
+
+.border-left-1{
+    border-width: 0px;
+            border-left: 1px;
+                border-style: solid;
+               }   
+
+
+.border-right-1{
+    border-width: 0px;
+            border-right: 1px;
+                border-style: solid;
+               }  
+
+
+
+//Border Colors
+
+
+.border-platinum{border-color: $platinum;}
+.border-red{border-color: $red;}
+.border-blue{border-color: $blue;}
+.border-dark{border-color: $dark;}
+.border-grey{border-color: $grey;}
+.border-yellow{border-color: $yellow;}
+.border-disable{border-color: $disable;}
+.border-green{border-color: $green;}
+.border-orange{border-color: $orange;}
+
+
+
+
+
+//Border Radius
+
+.border-radius-1{border-radius: 0.5rem;}
+
+.border-radius-2{border-radius: 0.8rem;}
+
+.border-radius-3{border-radius: 30px;}
+
+
+.border-radius-top-1{border-radius: 0.5rem 0.5rem 0rem 0rem;}
+
+.border-radius-top-2{border-radius: 0.8rem 0.8rem 0rem 0rem;}
+
+.border-radius-top-3{border-radius: 30px 30px 0px 0px}
+
+
+.border-radius-bottom-1{border-radius: 0rem 0rem 0.5rem 0.5rem;}
+
+.border-radius-bottom-2{border-radius: 0rem 0rem 0.5rem 0.5rem;}
+
+.border-radius-bottom-3{border-radius: 0m 0rem 1rem 1rem;}

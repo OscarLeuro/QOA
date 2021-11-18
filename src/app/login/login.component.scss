@@ -1,0 +1,38 @@
+
+.login_main{position:relative
+            ; z-index: 10;
+            background-image: url('/assets/img/bgqoa.jpg');
+            background-size: cover;
+            background-attachment: fixed;
+            height: 100vh
+            ;}
+
+.login_bg{position: absolute;
+    top: 0;
+    z-index: 9;}
+
+.login_bg img{width: 100%;}
+
+@media (max-width:580px){
+
+    .login_main{position:relative
+        ; z-index: 10;
+        background-image: url('/assets/img/movilqoa.jpg');
+        background-size: cover;
+       background-attachment: scroll;
+      height: auto;
+        
+       }
+
+}
+
+@media (max-width:990px){
+
+    
+}
+
+@media (min-width:1280px){
+
+  
+    
+}

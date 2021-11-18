@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "qoa-nutrition": {
+      "hosting": {
+        "TiendaV": [
+          "qoa-nutrition"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "qoa-nutrition"
+  }
+}

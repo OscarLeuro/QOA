@@ -1,0 +1,24 @@
+.bg-orange{background-color: $orange;}
+.bg-dark{background-color: $dark;}
+.bg-blue{background-color: $blue;}
+.bg-green{background-color: $green;}
+.bg-yellow{background-color: $yellow;}
+.bg-grey{background-color: $grey;}
+.bg-white{background-color: $white;}
+.bg-red{background-color: $red;}
+
+
+
+.bg-g-orange{background: linear-gradient(to left, $orange, $orange-hover)}
+
+.bg-g-green{background: linear-gradient(to left, $green, $green-hover)}
+
+.bg-g-blue{background: linear-gradient(to left, $blue, $blue-hover)}
+
+.bg-g-yellow{background: linear-gradient(to left, $yellow, $yellow-hover)}
+
+.bg-g-red{background: linear-gradient(to left, $red, $red-hover)}
+
+.bg-g-platinum{background: linear-gradient(to left, $platinum, $platinum-hover)}
+
+.bg-g-dark{background: linear-gradient(to left, $dark, $dark-hover)}

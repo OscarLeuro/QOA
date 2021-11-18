@@ -1,0 +1,192 @@
+.btn{padding: 1rem 1.5rem 1rem 1.5rem;
+    margin: 0.2rem;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.171) 2px 3px 10px;
+    width: fit-content}
+
+
+.btn-rounded{border-radius: 100%;
+            padding: 0.5rem 0.5rem 0.5rem 0.5rem ;}
+
+
+.btn-large{width: 100%;}
+
+
+.btn-orange{background: $orange;
+        border: 0px solid $orange;
+        color: white;}
+
+
+.btn-orange:hover{background: $orange-hover;
+            transition: all 0.3s;
+        }
+
+.btn-secondary-orange{background: none;
+        border: 0px solid $orange;
+        color: $orange;}
+
+
+.btn-secondary-orange:hover{background: none;
+        color: $orange-hover;
+        border: 0px solid $orange-hover;
+            transition: all 0.3s;
+            
+        }
+
+.btn-dark{border: solid 0px $dark;
+        background: $dark;
+        color: white}
+
+.btn-dark:hover{background: $dark-hover;
+            transition: all 0.3s;}
+
+
+.btn-secondary-dark{background: none;
+        border: 0px solid $dark;
+        color: $dark;}
+
+
+.btn-secondary-dark:hover{background: none;
+        color: $dark-hover;
+            transition: all 0.3s;
+            border: 0px solid $dark-hover;
+        }
+
+.btn-grey{color: $dark ;
+        background: $grey;
+    border: solid 0px $grey-hover;}
+
+.btn-grey:hover{background: $grey-hover;
+         
+            transition: all 0.3s;}
+
+
+.btn-secondary-grey{background: none;
+        border: 0px solid $grey;
+        color: $dark;}
+
+
+.btn-secondary-grey:hover{background: none;
+        color: $grey-hover;
+            transition: all 0.3s;
+            
+        }
+
+
+            
+.btn-gray{color: $dark ;
+    border: solid 0px $grey-hover;}
+
+.btn-gray:hover{background: $grey-hover;
+            color: white;
+            transition: all 0.3s;}
+
+.btn-secondary-gray{background: $white;
+        border: 0px solid $grey;
+        color: $dark;}
+
+
+.btn-secondary-gray:hover{background: $white;
+        color: $dark-hover;
+            transition: all 0.3s;
+            
+        }
+
+
+
+.btn-disable{background: $grey;
+            border: solid 0px $disable;
+            color: $disable;
+            box-shadow: none !important;}
+
+
+.btn-blue{background: $blue;
+            color: white;
+            border: solid 0px $blue-hover;}
+
+.btn-blue:hover{background: $blue-hover;
+                transition: all 0.3s;
+            }
+
+
+.btn-secondary-blue{background: none;
+            color: $blue;
+            border: solid 0px $blue;}
+
+.btn-secondary-blue:hover{background: none;
+                transition: all 0.3s;
+                color: $blue-hover;
+            }
+
+
+.btn-green{background: $green;
+            color: white;
+            border: solid 0px $green-hover;}
+
+.btn-green:hover{background: $green-hover;
+                transition: all 0.3s;
+            }
+
+.btn-secondary-green{background: none;
+            color: $green;
+            border: solid 0px $green-hover;}
+
+.btn-secondary-green:hover{background: none;
+                transition: all 0.3s;
+                color: $green-hover;
+                border: solid 0px $green-hover;
+            }
+
+
+.btn-red{background: $red;
+            color: white;
+            border: solid 0px $red-hover;}
+
+.btn-red:hover{background: $red-hover;
+                transition: all 0.3s;
+            }
+
+
+.btn-secondary-red{background: none;
+            color: $red;
+            border: solid 0px $red;}
+
+.btn-secondary-red:hover{
+                transition: all 0.3s;
+                color: $red-hover;
+                border: solid 0px $red-hover;
+            }
+.btn-yellow{background: $yellow;
+            color: black;
+            border: solid 0px $yellow-hover;}
+
+.btn-yellow:hover{background: $yellow-hover;
+                transition: all 0.3s;
+            }
+.btn-secondary-yellow{background: none;
+            color: $yellow;
+            border: solid 0px $yellow;}
+
+.btn-secondary-yellow:hover{
+                transition: all 0.3s;
+                color: $yellow-hover;
+                border: solid 0px $yellow-hover;
+            }
+
+.btn-secondary-white{background: none;
+            color: $white;
+            border: solid 0px $white;}
+
+.btn-secondary-white:hover{
+                transition: all 0.3s;
+                color: $platinum-hover;
+                border: solid 0px $platinum-hover;
+            }
+
+
+
+
+
+
+

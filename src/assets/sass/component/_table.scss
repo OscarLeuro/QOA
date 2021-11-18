@@ -1,0 +1,156 @@
+.table{
+        border-collapse: collapse;
+        padding: 0px;
+        
+        border-radius: 30px;}
+.table tbody{border: solid $grey 1px;
+                }
+
+.table tbody tr td{text-align: center;
+                border-bottom: 1px solid rgba(0, 0, 0, 0.089);
+                padding: 1rem;
+                        
+                }
+.table thead th{border: 0px;
+        font-weight: bolder;
+        padding: 1.5rem;}
+
+
+
+
+.table-platinum{background-color: white;}
+
+.table-platinum thead{background-color: $platinum;
+                        color: $dark;
+                        border-bottom: $platinum-hover 1px solid;}
+
+.table-platinum tbody tr:hover{background-color: $platinum;
+                                                transition: all 0.3s;}
+
+
+.table-red{background-color: white;}
+
+.table-red thead{background: $red;
+                        color: $white;
+                        border-bottom: $red-hover 1px solid;}
+
+.table-red tbody tr:hover{background-color: $red;
+                        color: $white;
+                        transition: all 0.3s;}
+
+.table-blue{background-color: white;}
+
+.table-blue thead{background-color: $blue;
+                        color: $white;
+                        border-bottom: $blue-hover 1px solid;}
+
+.table-blue tbody tr:hover{background-color: $blue;
+                        color: $white;
+                        transition: all 0.3s;
+                      
+                        }
+
+.table-green{background-color: white;}
+
+.table-green thead{background-color: $green;
+                        color: $white;
+                        border-bottom: $green-hover 1px solid;}
+
+.table-green tbody tr:hover{background-color: $green;
+                        color: $white;
+                        transition: all 0.3s;}
+
+.table-yellow{background-color: white;}
+
+.table-yellow thead{background-color: $yellow;
+                        color: $dark;
+                        border-bottom: $yellow-hover 1px solid;}
+
+.table-yellow tbody tr:hover{background-color: $yellow;
+                        color: $dark;
+                        transition: all 0.3s;}
+
+.table-dark{background-color: white;}
+
+.table-dark thead{background-color: $dark;
+                        color: $white;
+                        border-bottom: $dark-hover 1px solid;}
+
+.table-dark tbody tr:hover{background-color: $dark;
+                        color: $white;
+                        transition: all 0.3s;}
+
+.table-orange{background-color: white;}
+
+.table-orange thead{background-color: $orange;
+                        color: $white;
+                        border-bottom: $orange-hover 1px solid;}
+
+.table-orange tbody tr:hover{background-color: $orange;
+                        color: $white;
+                        transition: all 0.3s;}
+
+
+/*TABLE GRADIENT COLORS*/
+
+.table-g-orange{background-color: white;}
+
+.table-g-orange thead{background: linear-gradient(to left, $orange, $orange-hover);
+                        color: $white;
+                        border-bottom: $orange-hover 1px solid;}
+
+.table-g-orange tbody tr:hover{background-color: $orange;
+                        color: $white;
+                        transition: all 0.3s;}
+
+
+
+.table-g-red{background-color: white;}
+
+.table-g-red thead{background: linear-gradient(to left, $red, $red-hover);
+                        color: $white;
+                        border-bottom: $red-hover 1px solid;}
+
+.table-g-red tbody tr:hover{background-color: $red;
+                        color: $white;
+                        transition: all 0.3s;}
+
+
+.table-g-dark{background-color: white;}
+
+.table-g-dark thead{background: linear-gradient(to left, $dark, $dark-hover);
+                        color: $white;
+                        border-bottom: $dark-hover 1px solid;}
+
+.table-g-dark tbody tr:hover{background-color: $dark;
+                        color: $white;
+                        transition: all 0.3s;}
+
+
+.table-g-platinum{background-color: white;}
+
+.table-g-platinum thead{background: linear-gradient(to left, $platinum, $platinum-hover);
+                        color: $dark;
+                        border-bottom: $platinum-hover 1px solid;}
+
+.table-g-platinum tbody tr:hover{background-color: $platinum;
+                        color: $dark;
+                        transition: all 0.3s;}
+
+
+.table-g-blue{background-color: white;}
+
+.table-g-blue thead{background: linear-gradient(to left, $blue, $blue-hover);
+                        color: $white;
+                        border-bottom: $blue-hover 1px solid;}
+
+.table-g-blue tbody tr:hover{background-color: $blue;
+                        color: $white;
+                        transition: all 0.3s;}
+
+
+
+/**/
+
+tbody tr:hover{opacity: 0.5;}
+

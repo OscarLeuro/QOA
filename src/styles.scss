@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'assets/sass/component/general';
+@import 'assets/sass/component/colors';
+@import 'assets/sass/component/backgrounds';
+@import 'assets/sass/component/inputs';
+@import 'assets/sass/component/grid';
+@import 'assets/sass/component/width';
+@import 'assets/sass/component/buttons';
+@import 'assets/sass/component/margin';
+@import 'assets/sass/component/padding';
+@import 'assets/sass/component/font';
+@import 'assets/sass/component/table';
+@import 'assets/sass/component/borders';
+@import 'assets/sass/component/modal';
+@import 'assets/sass/component/_height';
+@import 'assets/sass/component/effects';
+
+
+*{box-sizing: border-box;
+    margin: 0}
